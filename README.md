@@ -1,7 +1,4 @@
-### Hello there 👋 
-## (General Kenobi!)
-
-![brr](https://media.giphy.com/media/Nx0rz3jtxtEre/source.gif)
-
+### Hello there 👋 ![brr](https://github.com/ravitripathi/ravitripathi/raw/master/brr.gif)
 
 Blog: ravitripathi.github.io
+Pinned Repos: 👇🏽
