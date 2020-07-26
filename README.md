@@ -1,5 +1,6 @@
 ### Hello there 👋 
-## (General Kenobi!) 
-<div class="tenor-gif-embed" data-postid="11699455" data-share-method="host" data-width="100%" data-aspect-ratio="2.0"><a href="https://tenor.com/view/obiwan-surprise-hello-there-gif-11699455">Obiwan Surprise GIF</a> from <a href="https://tenor.com/search/obiwan-gifs">Obiwan GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+## (General Kenobi!)
+
+<iframe src="https://giphy.com/embed/Nx0rz3jtxtEre" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mrw-top-escalator-Nx0rz3jtxtEre">via GIPHY</a></p>
 
 Blog: ravitripathi.github.io
